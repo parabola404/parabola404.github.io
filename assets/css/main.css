@@ -1302,7 +1302,7 @@ div.tag-cloud{
     margin-right: 10px;
     margin-bottom: 10px;
     line-height: 20px;
-    font-size: 12px;
+    font-size: 16px;
     text-decoration: none;
     color: var(--grey1) !important;
     border: 2px solid transparent;
