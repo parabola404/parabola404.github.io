@@ -9,7 +9,7 @@ tags: [another-eden,game]
 author: T.Crane
 description: "主線劇情目錄"
 ---
-# 第1部 穿越時空的貓
+## 第1部 穿越時空的貓
 
 ---
 
@@ -17,4 +17,4 @@ description: "主線劇情目錄"
 
 ---
 
-# 第1.5部
+## 第1.5部
