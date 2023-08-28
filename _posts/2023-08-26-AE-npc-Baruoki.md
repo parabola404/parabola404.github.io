@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "AE · npc对话 · 綠色村莊 巴路奧其"
 date: 2023-08-26
-img: post/another-eden/ost1.webp
+img: post/another-eden/巴路奧其.jpeg
 tags: [another-eden,game]
 author: T.Crane
 description: "Another Eden與npc的對話文本收錄之綠色村莊巴路奧其"
