@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Another Eden · 主線劇情目錄"
 date: 2023-08-27
-img: post/another-eden/2周年.webp
+img: post/another-eden/3周年.webp
 tags: [another-eden,game]
 author: T.Crane
 description: "主線劇情目錄"
