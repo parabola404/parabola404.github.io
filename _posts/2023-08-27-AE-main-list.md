@@ -13,7 +13,8 @@ description: "主線劇情目錄"
 
 ---
 
-- [第1章 黎明 降臨巴路奧其！](https://parabola404.github.io/AE-main-1.html)
+- [第1章 黎明 降臨巴路奧其！（文本量≈6145）](https://parabola404.github.io/AE-main-1.html)
+- [第2章 追擊 埋伏在月影之森的是……（文本量≈）](https://parabola404.github.io/AE-main-2.html)
 
 ---
 
