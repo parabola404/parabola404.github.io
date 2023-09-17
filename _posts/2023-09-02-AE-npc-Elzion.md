@@ -30,7 +30,7 @@ border-radius:25px;
 <div id="example">
 01<br>
 <strong>隱藏事件：和莉卡看電影</strong><br>
-<strong>電影院員工：</strong> 「靈魂 / 艾路兹恩之幻影]！現正開放入場中！看了必定會流淚的爱情羅曼史！請帶著手帕前來觀賞吧！<br>
+<strong>電影院員工：</strong> 「靈魂 / 艾路兹恩之幻影」！現正開放入場中！看了必定會流淚的爱情羅曼史！請帶著手帕前來觀賞吧！<br>
 <strong>莉卡：</strong> ……<br>
 <strong>阿爾德：</strong> 嗯？莉卡怎麽了嗎？看妳看得那麽認真。<br>
 <strong>莉卡：</strong> 電影……人類的娱樂作品……我從以前就有點在意。覺得非常有意思……<br>
